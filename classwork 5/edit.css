@@ -31,11 +31,11 @@ p
 }
 a:hover
 {
-    background-color: #FFFFCC;
+    background-color: #c08225;
 }
 a:visited
 {
-    color: #BB78BB;
+    color: #0fd19d;
 }
 a:link
 {
@@ -176,7 +176,7 @@ div.act a
 /* Style for footer */
 footer
 {
-    background-color: #283649;
+    background-color: #7c2255;
     margin-top: 1em;
     margin-right: 6em;
     margin-bottom: 1em;
